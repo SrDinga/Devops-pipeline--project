@@ -41,3 +41,4 @@
       repository: iwayqdockertest/iwayq:1.0
       push: yes
       source: local
+      # just for testing
